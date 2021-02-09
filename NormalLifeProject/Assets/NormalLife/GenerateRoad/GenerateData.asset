@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170c2c71a51c7e643bba0532a6e475a6, type: 3}
+  m_Name: GenerateData
+  m_EditorClassIdentifier: 
+  GeneList:
+  - Status: 0
+    bunchNum: 4
+  - Status: 1
+    bunchNum: 1
+  - Status: 0
+    bunchNum: 6
+  - Status: 2
+    bunchNum: 1
+  - Status: 0
+    bunchNum: 4
+  - Status: 2
+    bunchNum: 1
+  - Status: 1
+    bunchNum: 1
+  - Status: 2
+    bunchNum: 1
+  - Status: 0
+    bunchNum: 7
+  - Status: 2
+    bunchNum: 1
+  - Status: 0
+    bunchNum: 10
+  - Status: 1
+    bunchNum: 2
+  - Status: 0
+    bunchNum: 6
